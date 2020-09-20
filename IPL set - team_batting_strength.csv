@@ -1,0 +1,210 @@
+Season,Team,AVERAGE of player_strength,,SUM of player_strength,Season,,,,
+2019,CSK,140.2,,PLAYER,2019,2018,2017,2016,2015
+2019,Delhi,117.3,,Aaron Finch,,98.8,190.2,190.2,28.9
+2019,Hyderabad,121.8,,AB de Villiers,265.1,290.9,142.6,142.6,
+2019,Kolkata,141.5,,ABde Villiers,,,,,305.5
+2019,Mumbai,121.1,,Abhishek Sharma,,88.6,,,
+2019,Punjab,142.1,,Abu Nechim,,,,,48.0
+2019,Rajasthan,122.1,,Aditya Tare,,,26.5,26.5,25.6
+2019,RCB,105.8,,Ajinkya Rahane,,217.2,222.3,222.3,
+2018,CSK,149.3,,AjinkyaRahane,233.9,,,,310.9
+2018,Delhi,124.8,,Akshdeep Nath,55.6,,,,
+2018,Hyderabad,132.7,,Albie Morkel,,,,,95.3
+2018,Kolkata,141.3,,Alex Hales,,106.5,,,
+2018,Mumbai,145.2,,Alzarri Joseph,30.6,,,,
+2018,Punjab,118.2,,Ambati Rayudu,166.7,,74.3,74.3,179.0
+2018,Rajasthan,117.9,,AmbatiRayudu,,343.9,,,
+2018,RCB,107.9,,Amit Mishra,31.2,,58.0,58.0,
+2017,Delhi,106.5,,Andre Russell,,203.6,,,212.4
+2017,Gujarat,140.0,,AndreRussell,313.0,,,,
+2017,Hyderabad,151.8,,Andrew Tye,,34.4,69.8,69.8,
+2017,Kolkata,122.4,,Angelo Mathews,,,44.5,44.5,105.9
+2017,Mumbai,119.0,,Aniket Choudhary,,,45.0,45.0,
+2017,Pune,141.2,,Ankit Sharma,,,53.3,53.3,
+2017,Punjab,112.8,,Anureet Singh,,,37.0,37.0,22.4
+2017,RCB,94.1,,Ashish Reddy,,,,,75.5
+2016,Delhi,106.5,,Axar Patel,85.5,67.2,150.0,150.0,133.5
+2016,Gujarat,140.0,,Basil Thampi,,,34.0,34.0,
+2016,Hyderabad,151.8,,Ben Cutting,32.9,88.3,72.4,72.4,
+2016,Kolkata,122.4,,Ben Stokes,92.5,127.2,196.1,196.1,
+2016,Mumbai,119.0,,Bhuvneshwar Kumar,19.8,24.7,,,47.6
+2016,Pune,141.2,,Bipul Sharma,,,50.6,50.6,
+2016,Punjab,112.8,,Brendon McCullum,,98.7,197.6,197.6,
+2016,RCB,94.1,,BrendonMcCullum,,,,,259.2
+2015,CSK,149.8,,Carlos Brathwaite,29.2,76.3,,,
+2015,Delhi,127.3,,Chris Gayle,288.0,225.5,131.2,131.2,287.3
+2015,Hyderabad,108.1,,Chris Lynn,239.8,281.4,198.4,198.4,
+2015,Kolkata,124.2,,Chris Morris,34.9,72.2,119.0,119.0,82.4
+2015,Mumbai,136.2,,Chris Woakes,,28.9,46.0,46.0,
+2015,Punjab,88.5,,Colin de Grandhomme,46.4,104.6,95.1,95.1,
+2015,Rajasthan,136.2,,Colin Ingram,121.4,,,,
+2015,RCB,105.7,,Colin Munro,72.3,66.0,,,
+,,,,Corey Anderson,,25.7,100.2,100.2,91.9
+,,,,D'Arcy Short,,85.7,,,
+,,,,Dale Steyn,,,,,46.8
+,,,,Dan Christian,,32.7,76.5,76.5,
+,,,,Darren Sammy,,,,,22.9
+,,,,David Miller,140.5,71.2,70.5,70.5,
+,,,,David Warner,395.5,,366.3,366.3,325.3
+,,,,David Wiese,,,,,98.5
+,,,,DavidMiller,,,,,215.1
+,,,,Deepak Chahar,,64.5,57.9,57.9,
+,,,,Deepak Hooda,55.5,71.5,76.8,76.8,112.3
+,,,,Dinesh Karthik,165.2,,219.2,219.2,98.4
+,,,,DineshKarthik,,293.5,,,
+,,,,Dwayne Bravo,69.0,112.1,,,130.3
+,,,,Dwayne Smith,,,156.7,156.7,230.8
+,,,,Eoin Morgan,,,58.3,58.3,125.3
+,,,,Evin Lewis,47.3,227.5,,,
+,,,,Faf du Plessis,233.5,115.8,,,223.8
+,,,,Gautam Gambhir,,66.9,,,194.6
+,,,,GautamGambhir,,,287.1,287.1,
+,,,,George Bailey,,,,,163.8
+,,,,Glenn Maxwell,,116.9,198.9,198.9,102.3
+,,,,Gurkeerat Mann Singh,86.8,,,,37.5
+,,,,Hanuma Vihari,,,,,44.7
+,,,,Harbhajan Singh,,33.5,30.4,30.4,95.6
+,,,,Hardik Pandya,252.7,165.3,167.0,167.0,98.8
+,,,,Harpreet Brar,43.3,,,,
+,,,,Harshal Patel,,84.4,,,42.3
+,,,,HashimAmla,,,257.2,257.2,
+,,,,Heinrich Klaasen,,58.5,,,
+,,,,Iqbal Abdulla,,,,,35.2
+,,,,Ishan Kishan,75.7,174.3,173.7,173.7,
+,,,,Ishank Jaggi,,,43.3,43.3,
+,,,,Ishant Sharma,71.7,,,,
+,,,,Jagadeesha Suchith,,,,,68.4
+,,,,James Faulkner,,,50.0,50.0,103.8
+,,,,Jason Roy,,94.5,67.9,67.9,
+,,,,Jasprit Bumrah,,,39.5,39.5,
+,,,,Jaydev Unadkat,,54.0,,,
+,,,,Jofra Archer,77.1,22.7,,,
+,,,,Johan Botha,,,,,59.9
+,,,,Jonny Bairstow,270.6,,,,
+,,,,Jos Buttler,197.5,,174.9,174.9,
+,,,,JosButtler,,321.5,,,
+,,,,JP Duminy,,46.8,,,245.7
+,,,,Kagiso Rabada,27.1,,50.2,50.2,
+,,,,Kane Williamson,108.7,,171.1,171.1,47.8
+,,,,KaneWilliamson,,411.7,,,
+,,,,Karanveer Singh,,,,,22.6
+,,,,Karn Sharma,,,50.9,50.9,81.7
+,,,,Karun Nair,,185.3,171.8,171.8,120.4
+,,,,Kedar Jadhav,105.6,33.8,168.9,168.9,128.6
+,,,,Keemo Paul,25.1,,,,
+,,,,Kieron Pollard,181.3,98.8,229.3,229.3,253.7
+,,,,KL Rahul,,,,,102.1
+,,,,KLRahul,339.7,377.7,,,
+,,,,Krishnappa Gowtham,29.7,106.6,,,
+,,,,Krunal Pandya,120.9,149.9,159.1,159.1,
+,,,,Kuldeep Yadav,37.8,,31.2,31.2,
+,,,,Lendl Simmons,,,98.8,98.8,
+,,,,LendlSimmons,,,,,308.0
+,,,,Liam Livingstone,72.2,,,,
+,,,,Mahipal Lomror,,35.0,,,
+,,,,Manan Vohra,,55.0,150.9,150.9,64.8
+,,,,Mandeep Singh,122.4,160.7,120.9,120.9,116.6
+,,,,Manish Pandey,211.1,172.8,238.6,238.6,143.1
+,,,,Manoj Tiwary,,49.6,199.2,199.2,57.4
+,,,,Manvinder Bisla,,,,,48.7
+,,,,Marcus Stoinis,148.4,83.0,24.4,24.4,
+,,,,Marlon Samuels,,,35.4,35.4,
+,,,,Martin Guptill,79.2,,102.6,102.6,
+,,,,Mayank Agarwal,202.0,89.1,34.9,34.9,137.7
+,,,,Mayank Markande,,31.2,,,
+,,,,Michael Hussey,,,,,66.3
+,,,,Mitchell Johnson,,37.1,33.5,33.5,35.0
+,,,,Mitchell McClenaghan,20.3,,30.5,30.5,53.7
+,,,,Mitchell Santner,53.4,,,,
+,,,,Mitchell Starc,,,,,24.5
+,,,,Moeen Ali,151.3,77.8,,,
+,,,,Mohammad Nabi,93.5,41.7,,,
+,,,,Mohammad Shami,,,50.7,50.7,
+,,,,Mohammed Siraj,,39.0,,,
+,,,,Mohit Sharma,,,48.5,48.5,47.9
+,,,,Moises Henriques,,,179.6,179.6,183.0
+,,,,MS Dhoni,259.9,280.4,176.1,176.1,219.7
+,,,,Murali Vijay,62.6,,,,154.4
+,,,,Naman Ojha,,,69.7,69.7,95.3
+,,,,Nathan Coulter0Nile,,,31.7,31.7,33.7
+,,,,Nicholas Pooran,123.8,,,,
+,,,,Nitish Rana,211.6,185.2,200.8,200.8,
+,,,,Parthiv Patel,222.3,113.8,,,204.9
+,,,,ParthivPatel,,,231.9,231.9,
+,,,,Pat Cummins,,,72.2,72.2,
+,,,,Pawan Negi,20.2,,103.3,103.3,94.1
+,,,,Piyush Chawla,47.9,31.4,,,54.0
+,,,,Praveen Kumar,,,,,23.8
+,,,,Prayas Ray Barman,31.0,,,,
+,,,,Prithvi Shaw,209.9,161.3,,,
+,,,,Quinton de Kock,,132.9,,,104.9
+,,,,Quintonde Kock,301.7,,,,
+,,,,Rahul Chahar,29.6,,,,
+,,,,Rahul Tewatia,44.4,53.3,49.7,49.7,
+,,,,Rahul Tripathi,101.4,147.6,233.2,233.2,
+,,,,Rajat Bhatia,,,31.6,31.6,
+,,,,Rashid Khan,48.6,71.1,,,
+,,,,Ravi Bopara,,,,,105.4
+,,,,Ravichandran Ashwin,53.5,83.6,,,63.7
+,,,,Ravindra Jadeja,87.7,73.9,118.8,118.8,92.6
+,,,,Rilee Rossouw,,,,,37.1
+,,,,Rinku Singh,45.8,35.4,,,
+,,,,Rishabh Pant,287.8,,224.0,224.0,
+,,,,RishabhPant,,392.5,,,
+,,,,Rishi Dhawan,,,,,45.2
+,,,,Riyan Parag,115.0,,,,
+,,,,Robin Uthappa,173.4,208.6,236.0,236.0,
+,,,,RobinUthappa,,,,,217.4
+,,,,Rohit Sharma,236.9,176.8,198.0,198.0,280.3
+,,,,Ryan ten Doeschate,,,,,63.7
+,,,,Sachin Baby,,,29.0,29.0,
+,,,,Sam Billings,,85.7,102.4,102.4,
+,,,,Sam Curran,89.2,,,,
+,,,,Sanju Samson,211.0,257.5,,,133.2
+,,,,SanjuSamson,,,229.5,229.5,
+,,,,Sarfaraz Khan,128.7,53.4,,,95.1
+,,,,Saurabh Tiwary,,,65.8,65.8,82.4
+,,,,Sean Abbott,,,,,32.8
+,,,,Shakib Al Hasan,25.2,150.3,,,48.3
+,,,,Shane Watson,231.5,320.3,57.3,57.3,213.5
+,,,,Shardul Thakur,49.1,67.5,,,
+,,,,Shaun Marsh,,,169.1,169.1,74.5
+,,,,Sheldon Jackson,,,49.2,49.2,
+,,,,Sherfane Rutherford,67.9,,,,
+,,,,Shikhar Dhawan,,287.4,276.0,276.0,209.3
+,,,,ShikharDhawan,298.1,,,,
+,,,,Shimron Hetmyer,75.1,,,,
+,,,,Shivam Dube,48.2,,,,
+,,,,Shivam Mavi,,25.1,,,
+,,,,Shreevats Goswami,,57.2,,,
+,,,,Shreyas Gopal,63.6,52.2,,,
+,,,,Shreyas Iyer,264.7,243.2,207.0,207.0,
+,,,,ShreyasIyer,,,,,255.3
+,,,,Shubman Gill,182.7,140.9,,,
+,,,,Siddhesh Lad,35.1,,,,
+,,,,Simran Singh,31.6,,,,
+,,,,Sreenath Aravind,,,34.4,34.4,
+,,,,Steve Smith,194.7,,,,181.0
+,,,,SteveSmith,,,272.2,272.2,
+,,,,Stuart Binny,77.0,47.2,64.2,64.2,65.0
+,,,,Sunil Narine,110.1,223.2,151.6,151.6,
+,,,,Suresh Raina,223.1,260.1,,,219.1
+,,,,SureshRaina,,,261.8,261.8,
+,,,,Suryakumar Yadav,248.0,,81.6,81.6,111.5
+,,,,SuryakumarYadav,,293.6,,,
+,,,,Thisara Perera,,,,,23.8
+,,,,Tim Southee,24.5,56.4,,,39.3
+,,,,Tom Curran,,30.2,,,
+,,,,Travis Head,,,112.5,112.5,
+,,,,Umesh Yadav,36.3,,,,64.6
+,,,,Unmukt Chand,,,,,81.7
+,,,,Vijay Shankar,153.4,150.5,92.6,92.6,
+,,,,Virat Kohli,270.2,,187.7,187.7,292.4
+,,,,ViratKohli,,307.3,,,
+,,,,Virender Sehwag,,,,,76.8
+,,,,Vishnu Vinod,,,26.0,26.0,
+,,,,Washington Sundar,,73.2,,,
+,,,,Wriddhiman Saha,80.6,89.5,149.0,149.0,155.5
+,,,,Yusuf Pathan,41.8,164.7,101.7,101.7,196.4
+,,,,Yuvraj Singh,82.5,53.6,162.9,162.9,153.3
+,,,,Grand Total,12528.9,12857.4,12167.8,12167.8,11972.0

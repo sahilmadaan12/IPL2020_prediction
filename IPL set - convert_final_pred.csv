@@ -1,0 +1,57 @@
+team_1,team_2,pitch_type,diff_batting,diff_bowling,pred,Result,venue,team_1_win_prob,team_2_win_prob,Result
+Mumbai,CSK,tropical,47.8167375,-4.368370161,1,Mumbai,Abu Dhabi,0.587184,0.412816,Mumbai
+Delhi,Punjab,dry,13.23226667,32.35090932,1,Delhi,Dubai,0.578488,0.421512,Delhi
+Hyderabad,RCB,dry,-61.14175833,0.1737909784,0,RCB,Dubai,0.269571,0.730429,RCB
+Rajasthan,CSK,hot,-19.46659821,-31.11788719,0,CSK,Sharjah,0.307983,0.692017,CSK
+Kolkata,Mumbai,tropical,-46.33111,-24.79654328,0,Mumbai,Abu Dhabi,0.252686,0.747314,Mumbai
+Punjab,RCB,dry,-27.73514167,-31.91433885,0,RCB,Dubai,0.284013,0.715987,RCB
+CSK,Delhi,dry,-11.2867875,11.44465968,0,Delhi,Dubai,0.442511,0.557489,Delhi
+Kolkata,Hyderabad,tropical,36.83772333,-17.45747427,1,Kolkata,Abu Dhabi,0.516415,0.483585,Kolkata
+Rajasthan,Punjab,hot,-17.52111905,12.67768181,0,Punjab,Sharjah,0.426206,0.573794,Punjab
+RCB,Mumbai,dry,-22.027075,-7.512859993,0,Mumbai,Dubai,0.358967,0.641033,Mumbai
+Delhi,Hyderabad,tropical,46.63888333,0.262779494,1,Delhi,Abu Dhabi,0.595976,0.404024,Delhi
+Rajasthan,Kolkata,dry,-20.95222571,-1.952973747,0,Kolkata,Dubai,0.376557,0.623443,Kolkata
+Punjab,Mumbai,tropical,-49.76221667,-39.42719884,0,Mumbai,Abu Dhabi,0.215653,0.784347,Mumbai
+CSK,Hyderabad,dry,35.35209583,11.70743918,1,CSK,Dubai,0.591715,0.408285,CSK
+RCB,Rajasthan,tropical,45.25626071,19.23665704,1,RCB,Abu Dhabi,0.641539,0.358461,RCB
+Delhi,Kolkata,hot,9.80116,17.72025376,1,Delhi,Sharjah,0.527405,0.472595,Delhi
+Mumbai,Hyderabad,hot,83.16883333,7.339069015,1,Mumbai,Sharjah,0.718435,0.281565,Mumbai
+Punjab,CSK,dry,-1.945479167,-43.795569,0,CSK,Dubai,0.326176,0.673824,CSK
+RCB,Delhi,dry,14.502875,-0.4365704724,0,Delhi,Dubai,0.492034,0.507966,Delhi
+Mumbai,Rajasthan,tropical,67.28333571,26.74951703,1,Mumbai,Abu Dhabi,0.720831,0.279169,Mumbai
+Kolkata,CSK,tropical,1.4856275,-29.16491344,0,CSK,Abu Dhabi,0.373159,0.626841,CSK
+Hyderabad,Punjab,dry,-33.40661667,32.08812983,0,Punjab,Dubai,0.429113,0.570887,Punjab
+Rajasthan,Delhi,hot,-30.75338571,-19.67322751,0,Delhi,Sharjah,0.304231,0.695769,Delhi
+Punjab,Kolkata,tropical,-3.431106667,-14.63065556,0,Kolkata,Abu Dhabi,0.39648,0.60352,Kolkata
+CSK,RCB,dry,-25.7896625,11.88123015,0,RCB,Dubai,0.398331,0.601669,RCB
+Hyderabad,Rajasthan,dry,-15.88549762,19.41044801,0,Rajasthan,Dubai,0.449811,0.550189,Rajasthan
+Mumbai,Delhi,tropical,36.52995,7.076289521,1,Mumbai,Abu Dhabi,0.582895,0.417105,Mumbai
+RCB,Kolkata,hot,24.304035,17.28368329,1,RCB,Sharjah,0.572284,0.427716,RCB
+Hyderabad,CSK,dry,-35.35209583,-11.70743918,0,CSK,Dubai,0.310521,0.689479,CSK
+Delhi,Rajasthan,dry,30.75338571,19.67322751,1,Delhi,Dubai,0.598833,0.401167,Delhi
+RCB,Punjab,hot,27.73514167,31.91433885,1,RCB,Sharjah,0.621993,0.378007,RCB
+Mumbai,Kolkata,tropical,46.33111,24.79654328,1,Mumbai,Abu Dhabi,0.658746,0.341254,Mumbai
+Rajasthan,RCB,dry,-45.25626071,-19.23665704,0,RCB,Dubai,0.267239,0.732761,RCB
+Delhi,CSK,hot,11.2867875,-11.44465968,0,CSK,Sharjah,0.451244,0.548756,CSK
+Hyderabad,Kolkata,tropical,-36.83772333,17.45747427,0,Kolkata,Abu Dhabi,0.379349,0.620651,Kolkata
+Mumbai,Punjab,dry,49.76221667,39.42719884,1,Mumbai,Dubai,0.703611,0.296389,Mumbai
+CSK,Rajasthan,tropical,19.46659821,31.11788719,1,CSK,Abu Dhabi,0.594582,0.405418,CSK
+Punjab,Delhi,dry,-13.23226667,-32.35090932,0,Delhi,Dubai,0.322306,0.677694,Delhi
+Kolkata,RCB,tropical,-24.304035,-17.28368329,0,RCB,Abu Dhabi,0.327878,0.672122,RCB
+Rajasthan,Hyderabad,dry,15.88549762,-19.41044801,0,Hyderabad,Dubai,0.443939,0.556061,Hyderabad
+CSK,Mumbai,hot,-47.8167375,4.368370161,0,Mumbai,Sharjah,0.314544,0.685456,Mumbai
+Kolkata,Delhi,tropical,-9.80116,-17.72025376,0,Delhi,Abu Dhabi,0.369036,0.630964,Delhi
+Punjab,Hyderabad,dry,33.40661667,-32.08812983,0,Hyderabad,Dubai,0.464769,0.535231,Hyderabad
+RCB,CSK,dry,25.7896625,-11.88123015,0,CSK,Dubai,0.49645,0.50355,CSK
+Rajasthan,Mumbai,tropical,-67.28333571,-26.74951703,0,Mumbai,Abu Dhabi,0.201779,0.798221,Mumbai
+Kolkata,Punjab,hot,3.431106667,14.63065556,0,Punjab,Sharjah,0.498382,0.501618,Punjab
+Hyderabad,Delhi,dry,-46.63888333,-0.262779494,0,Delhi,Dubai,0.306751,0.693249,Delhi
+Mumbai,RCB,tropical,22.027075,7.512859993,1,Mumbai,Abu Dhabi,0.538231,0.461769,Mumbai
+CSK,Kolkata,dry,-1.4856275,29.16491344,1,CSK,Dubai,0.522999,0.477001,CSK
+Punjab,Rajasthan,tropical,17.52111905,-12.67768181,0,Rajasthan,Abu Dhabi,0.467725,0.532275,Rajasthan
+Delhi,Mumbai,dry,-36.52995,-7.076289521,0,Mumbai,Dubai,0.318365,0.681635,Mumbai
+RCB,Hyderabad,hot,61.14175833,-0.1737909784,1,RCB,Sharjah,0.638803,0.361197,RCB
+CSK,Punjab,tropical,1.945479167,43.795569,1,CSK,Abu Dhabi,0.574175,0.425825,CSK
+Kolkata,Rajasthan,dry,20.95222571,1.952973747,1,Kolkata,Dubai,0.519381,0.480619,Kolkata
+Delhi,RCB,tropical,-14.502875,0.4365704724,0,RCB,Abu Dhabi,0.402572,0.597428,RCB
+Hyderabad,Mumbai,hot,-83.16883333,-7.339069015,0,Mumbai,Sharjah,0.203699,0.796301,Mumbai
